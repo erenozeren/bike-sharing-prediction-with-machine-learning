@@ -6,3 +6,5 @@ Model: LightGBM (Gradient Boosting)
 Target: cnt — number of bikes rented per hour
 
 Evaluation Metric: RMSE (Root Mean Squared Error)
+
+kaggle : https://www.kaggle.com/code/erenozeren/bike-sharing-prediction-with-machine-learning
